@@ -1,0 +1,10 @@
+studentrecord/
+│
+├── main/
+│   └── MainApp.java
+│
+├── model/
+│   └── Student.java
+│
+└── service/
+    └── StudentService.java
